@@ -5,5 +5,6 @@ Repositorio de archivos complementarios, utilizados para el trabajo final.
 - Puntos de acceso: archivo .kml utilizado en Google Earth.
 - AOIs: archivos .kml utilizados en Google Earth.
 
-2022 - 2023\n
+2022 - 2023
+
 Universidad Católica Argentina
